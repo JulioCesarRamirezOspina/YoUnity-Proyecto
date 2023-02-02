@@ -1,0 +1,15 @@
+{
+  "name": "com.yosoft.unity.proyecto",
+  "version": "0.0.1",
+  "unity": "2021.1",
+  "displayName": "Yosoft Core",
+  "description": "Herramientas para unity esenciales para proyectos de Yosoft",
+  "category": "2D",
+  "keywords": [
+    "2d"
+  ],
+  "author": {
+    "name": "Julio Cesar Ramirez Ospina",
+    "email": "julio.ramirez@yosoft.com.co"
+  }
+}
